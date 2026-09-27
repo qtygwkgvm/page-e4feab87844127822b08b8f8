@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.danyangai.cn/sitemap.xml
